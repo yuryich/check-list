@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Проверка базовых функций двусвзяного списка.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  catch_amalgamated.cpp
+  list.cpp
+  Source.cpp
+  Checking basic functions of a doubly linked list.cpp
+  Создание кода...
+LINK : warning LNK4067: неоднозначная точка входа; выбрана "mainCRTStartup"
+  Проверка базовых функций двусвзяного списка.vcxproj -> C:\Users\Долгова Елена\source\repos\Проверка базовых функций двусвзяного списка\Debug\Checking basic functions of a doubly linked list.exe
